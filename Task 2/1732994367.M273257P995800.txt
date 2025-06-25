@@ -1,0 +1,245 @@
+Return-Path: <support@diplomathide.za.com>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 997307 invoked from network); 30 Nov 2024 18:40:31 -0000
+Received: from diplomathide.za.com (diplomathide.za.com [51.158.26.172])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Nov 2024 18:40:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s1; d=diplomathide.za.com;
+ h=Date:From:MIME-Version:To:Subject:Message-ID:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=support@diplomathide.za.com;
+ bh=hWhOOMCrd80q2Pr7DdDcMBoqmb8=;
+ b=K+ONFxoAvksqakKS+7GnQqlp2wg31ZHGe90vcWacJ1/jRb6ImeKuihKNy0FdYTJYDnH94XPMAASo
+   1NDEB38UWIPyD7hAXCmI8j2Jt/zBus4lXZOBOD6wH288BG8mMHseEg976EbSPv0f3PX7EDjvwmUS
+   oQ13L6YH/qo/xadJkFPcYakSPAZSuO7i98iLyvpXNKlmYFpEelr2lu44X20t+U4CTqUY2sOQ7p1J
+   gFU3RvXDhTmDDAuA3ueIwFxOJTTWWaZyMGepoG7rPtpeXUO6WO9NmeBgbdZO5vrhcxMnb3HAZX+8
+   OdbcBbsVPWFdy5KeI+MlpAB7m3Zzp86wLw4zBQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=s1; d=diplomathide.za.com;
+ b=KDktC1ojeJmuCJnlQgDPJVO23lj9u+/B93VkK7gM7NAxzcKDNzgWUVL2GRKxmmiXBbzfgvcsFMbU
+   k+/9zzX6VAxr6K4t5G75jY9KnuHX32CExPUieyP86n44yP8LzdsuOnOMf2ITmYAkyVapVoIa3aTs
+   fEOW8uphDCBuA/7AoyGoU8A7EQGjlQo0SZNy1kixc5ktHe5iWgwC+rAshAMg4TR6zgQwokT1S65t
+   K/g5HXvL8L4QOaKJV34ge8KtT//RUahDtMIN9SnDsgggverJX0sQmw2F3X5lGOXAC9+HAcIcGyYp
+   avoyLTYP2PIuSuBB0+3G6yxlCzdEErSdXLpLlg==;
+Date: Sat, 30 Nov 2024 13:24:34 -0500
+From: "Lower A1C" <support@diplomathide.za.com>
+MIME-Version: 1.0
+Precedence: Normal
+To: <bruce@untroubled.org>
+Subject: =?ISO-8859-1?Q?ADA=E2=80=99s=20?=New Stand on Metformin: Try This Food Instead
+Message-ID: <aI41I2TvoXmb5xQfArP5sv2z-ajf6egcJ1W01_PNB3E.0dkQ5gemv_ohHv1f_y7He4oDr54jN152WYjuJVBRxs4@diplomathide.za.com>
+List-Unsubscribe: http://www.diplomathide.za.com/Vmlgq/3J0PqX9FZ6r0s2243uA_4sHDbYUBmY-R8eI13evzQwR8fiGL9RlKFiBtxeBJDirR.slKw2ZqkEemKF1Rvr-UcqQtvvBwqG-CaiNjtwaoYNcP <support@diplomathide.za.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-User: <bruce@untroubled.org>
+X-CampaignID: 50883870
+X-ListID: PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<style type="text/css">body {
+
+
+  background-color: #999;
+
+
+}
+
+
+a:link {
+
+
+  text-decoration: none;
+
+
+}
+
+
+</style>
+
+
+<div style="max-width: 600px; margin: 0 auto; border: 5px solid; padding: 9px; background-color: white;">
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">In late 2023, the American Diabetes Association (ADA) made a shocking announcement...</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">The ADA&#39;s committee of experts&nbsp;<b>removed Metformin</b>&nbsp;from its &quot;first-line&quot; treatments.</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">In fact, the ADA now ranks Metformin as&nbsp;<em>inferior</em>&nbsp;to other options for blood sugar control.</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">Even so, Big Pharma will NEVER confess that Metformin has been &quot;downgraded&quot;...</span></span><br />
+
+
+&nbsp;</p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">And they&#39;ll certainly never reveal&nbsp;<a href="http://www.diplomathide.za.com/Jitkkjpr/gqjpr12769righxauuc/PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls/RriDJBextBiFKlR9LGif8RwQzve31Ie8R-YmBUYbDHs4_Au3422s0r6ZF9XqP0J3">this one special food that lowers your A1C</a>&nbsp;while helping you lose weight at the same time.</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">Why? Because the US National Library of Medicine says&nbsp;<b>this food is better than Metformin</b>&nbsp;for folks with blood sugar issues.</span></span><br />
+
+
+&nbsp;</p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">Skeptical? Click the link below to see the latest research</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><a href="http://www.diplomathide.za.com/Jitkkjpr/gqjpr12769righxauuc/PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls/RriDJBextBiFKlR9LGif8RwQzve31Ie8R-YmBUYbDHs4_Au3422s0r6ZF9XqP0J3">=&gt; This One Special Food Lowers A1C Starting Immediately</a></span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><a href="http://www.diplomathide.za.com/Jitkkjpr/gqjpr12769righxauuc/PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls/RriDJBextBiFKlR9LGif8RwQzve31Ie8R-YmBUYbDHs4_Au3422s0r6ZF9XqP0J3"><img alt="sugar_z435454" src="https://www.diplomathide.za.com/email4.webp" style="width: 600px; height: 456px;" /></a></span></span><br />
+
+
+&nbsp;</p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;"><br />
+
+
+Jack Lewis</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">P.S. No one wants to take meds for the rest of their lives. So if you&rsquo;d like to trash yours, you should try this out.</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">Put all the horrible side effects behind you. No more diarrhea, stomach aches, feeling sick, or losing your appetite.</span></span></p>
+
+
+
+
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:16px;">Instead,&nbsp;<a href="http://www.diplomathide.za.com/Jitkkjpr/gqjpr12769righxauuc/PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls/RriDJBextBiFKlR9LGif8RwQzve31Ie8R-YmBUYbDHs4_Au3422s0r6ZF9XqP0J3">just enjoy this tasty food every day to lower your A1C</a>&nbsp;and lose weight at the same time.</span></span></p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+
+
+<hr />
+
+
+<p>This email was sent to <b>bruce@untroubled.org</b> by <b></b><br />
+
+
+Hettinger and Sons<br />
+
+
+, 568 Indian Spring Lane Monroe Township, NJ 08831</p>
+
+
+
+
+
+<div style="display:block"><a class="maro_no_record" href="http://www.diplomathide.za.com/Vmlgq/3J0PqX9FZ6r0s2243uA_4sHDbYUBmY-R8eI13evzQwR8fiGL9RlKFiBtxeBJDirR.slKw2ZqkEemKF1Rvr-UcqQtvvBwqG-CaiNjtwaoYNcP" rel="nofollow" style="border:0px;color:#000;display:inline !important;"><span style="color:#3498db;">Edit Profile</span></a><span style="color:#3498db;"> | </span><a class="maro_no_record" href="http://www.diplomathide.za.com/Vmlgq/3J0PqX9FZ6r0s2243uA_4sHDbYUBmY-R8eI13evzQwR8fiGL9RlKFiBtxeBJDirR.slKw2ZqkEemKF1Rvr-UcqQtvvBwqG-CaiNjtwaoYNcP" rel="nofollow" style="border:0px;color:#000;display:inline !important;"><span style="color:#3498db;">Manage Subscriptions</span></a></div>
+
+
+
+
+
+<div style="display:block">&nbsp;</div>
+
+
+
+
+
+<div class="footerco" style="margin-left: auto; margin-right: auto; width: 100%; background-color:#ffffff !important; display:block !important;">
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%; display:table !important;">
+
+
+	<tbody>
+
+
+		<tr style="display:table-row !important;">
+
+
+			<td style="width:20%; display:table-cell !important;">&nbsp;</td>
+
+
+			<td align="center" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-align:center;vertical-align:middle; display:table-cell !important;font-size:8.0pt; font-family:'Arial','sans-serif'; color:#666666;">
+
+
+			<div style="display:block">&nbsp;</div><br />
+<img src="http://www.diplomathide.za.com/M34skmdas/PcNYoawtjNiaC-GqwBvvtQqcU-rvR1FKmeEkqZ2wKls/RriDJBextBiFKlR9LGif8RwQzve31Ie8R-YmBUYbDHs4_Au3422s0r6ZF9XqP0J3" >
+
+
+			</td>
+
+
+			<td align="right" style="text-align:right;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;width:20%;vertical-align:middle; display:table-cell !important;font-size:8.0pt; font-family:'Arial','sans-serif'; color:#666666;" valign="middle">&nbsp;</td>
+
+
+		</tr>
+
+
+	</tbody>
+
+
+</table>
+
+
+</div>
+
+
+</div>
+
+
+
+
